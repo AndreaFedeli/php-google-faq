@@ -1,0 +1,12 @@
+.logo{
+  width: 200px;
+  height: 100px;
+  margin-left: 30px;
+
+}
+
+li {
+  display: inline;
+  padding-left: 10px;
+
+}
